@@ -281,7 +281,6 @@ footer {
 
 }
 
-footer button {}
 
 .next-btn {
     color: #fff !important;
@@ -640,7 +639,6 @@ footer {
 
 }
 
-footer button {}
 
 .next-btn {
     color: #fff !important;
@@ -705,7 +703,7 @@ footer a {
 /*start of sign-up page*/
 
 .form-container {
-    max-width: 40%;
+    max-width: 70%;
     background-color: #fff;
     margin: 5% auto;
     padding: 3%;
@@ -1005,8 +1003,6 @@ footer {
 
 
 }
-
-footer button {}
 
 .next-btn {
     color: #fff !important;
